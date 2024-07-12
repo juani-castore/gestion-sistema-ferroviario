@@ -1,0 +1,1716 @@
+{
+    "services": {
+        "1": {
+            "stops": [
+                {
+                    "time": 109,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 166,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "2": {
+            "stops": [
+                {
+                    "time": 125,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 184,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "3": {
+            "stops": [
+                {
+                    "time": 160,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 233,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "4": {
+            "stops": [
+                {
+                    "time": 165,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 221,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "5": {
+            "stops": [
+                {
+                    "time": 180,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 255,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "6": {
+            "stops": [
+                {
+                    "time": 212,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 274,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "7": {
+            "stops": [
+                {
+                    "time": 235,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 305,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "8": {
+            "stops": [
+                {
+                    "time": 260,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 323,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "9": {
+            "stops": [
+                {
+                    "time": 263,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 320,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "10": {
+            "stops": [
+                {
+                    "time": 299,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 364,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "11": {
+            "stops": [
+                {
+                    "time": 303,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 359,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "12": {
+            "stops": [
+                {
+                    "time": 323,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 397,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "13": {
+            "stops": [
+                {
+                    "time": 351,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 403,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "14": {
+            "stops": [
+                {
+                    "time": 369,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 439,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "15": {
+            "stops": [
+                {
+                    "time": 392,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 445,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "16": {
+            "stops": [
+                {
+                    "time": 417,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 493,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "17": {
+            "stops": [
+                {
+                    "time": 423,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 490,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "18": {
+            "stops": [
+                {
+                    "time": 446,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 510,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "19": {
+            "stops": [
+                {
+                    "time": 466,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 522,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "20": {
+            "stops": [
+                {
+                    "time": 492,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 557,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "21": {
+            "stops": [
+                {
+                    "time": 504,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 570,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "22": {
+            "stops": [
+                {
+                    "time": 522,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 597,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "23": {
+            "stops": [
+                {
+                    "time": 555,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 612,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "24": {
+            "stops": [
+                {
+                    "time": 568,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 641,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "25": {
+            "stops": [
+                {
+                    "time": 587,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 637,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "26": {
+            "stops": [
+                {
+                    "time": 618,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 689,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "27": {
+            "stops": [
+                {
+                    "time": 640,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 692,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "28": {
+            "stops": [
+                {
+                    "time": 651,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 713,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "29": {
+            "stops": [
+                {
+                    "time": 672,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 752,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "30": {
+            "stops": [
+                {
+                    "time": 697,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 769,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "31": {
+            "stops": [
+                {
+                    "time": 702,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 770,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "32": {
+            "stops": [
+                {
+                    "time": 730,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 790,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "33": {
+            "stops": [
+                {
+                    "time": 760,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 834,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "34": {
+            "stops": [
+                {
+                    "time": 762,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 818,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "35": {
+            "stops": [
+                {
+                    "time": 787,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 859,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "36": {
+            "stops": [
+                {
+                    "time": 807,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 873,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "37": {
+            "stops": [
+                {
+                    "time": 836,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 905,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "38": {
+            "stops": [
+                {
+                    "time": 857,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 911,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "39": {
+            "stops": [
+                {
+                    "time": 868,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 922,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "40": {
+            "stops": [
+                {
+                    "time": 893,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 963,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "41": {
+            "stops": [
+                {
+                    "time": 909,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 965,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "42": {
+            "stops": [
+                {
+                    "time": 922,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 999,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "43": {
+            "stops": [
+                {
+                    "time": 953,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1026,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "44": {
+            "stops": [
+                {
+                    "time": 978,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1058,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "45": {
+            "stops": [
+                {
+                    "time": 994,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1064,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "46": {
+            "stops": [
+                {
+                    "time": 1007,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1059,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "47": {
+            "stops": [
+                {
+                    "time": 1025,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1078,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "48": {
+            "stops": [
+                {
+                    "time": 1046,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1104,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "49": {
+            "stops": [
+                {
+                    "time": 1080,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1148,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "50": {
+            "stops": [
+                {
+                    "time": 1098,
+                    "station": "Belgrano",
+                    "type": "D"
+                },
+                {
+                    "time": 1168,
+                    "station": "Palermo",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "51": {
+            "stops": [
+                {
+                    "time": 117,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 182,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "52": {
+            "stops": [
+                {
+                    "time": 123,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 186,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "53": {
+            "stops": [
+                {
+                    "time": 155,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 220,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "54": {
+            "stops": [
+                {
+                    "time": 162,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 214,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "55": {
+            "stops": [
+                {
+                    "time": 197,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 250,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "56": {
+            "stops": [
+                {
+                    "time": 215,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 277,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "57": {
+            "stops": [
+                {
+                    "time": 234,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 304,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "58": {
+            "stops": [
+                {
+                    "time": 244,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 320,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "59": {
+            "stops": [
+                {
+                    "time": 261,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 332,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "60": {
+            "stops": [
+                {
+                    "time": 299,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 372,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "61": {
+            "stops": [
+                {
+                    "time": 304,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 377,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "62": {
+            "stops": [
+                {
+                    "time": 323,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 393,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "63": {
+            "stops": [
+                {
+                    "time": 348,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 416,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "64": {
+            "stops": [
+                {
+                    "time": 364,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 414,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "65": {
+            "stops": [
+                {
+                    "time": 384,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 448,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "66": {
+            "stops": [
+                {
+                    "time": 401,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 467,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "67": {
+            "stops": [
+                {
+                    "time": 439,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 516,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "68": {
+            "stops": [
+                {
+                    "time": 455,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 507,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "69": {
+            "stops": [
+                {
+                    "time": 474,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 548,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "70": {
+            "stops": [
+                {
+                    "time": 483,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 559,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "71": {
+            "stops": [
+                {
+                    "time": 500,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 558,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "72": {
+            "stops": [
+                {
+                    "time": 539,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 603,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "73": {
+            "stops": [
+                {
+                    "time": 554,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 614,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "74": {
+            "stops": [
+                {
+                    "time": 561,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 629,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "75": {
+            "stops": [
+                {
+                    "time": 590,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 670,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "76": {
+            "stops": [
+                {
+                    "time": 601,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 677,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "77": {
+            "stops": [
+                {
+                    "time": 628,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 700,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "78": {
+            "stops": [
+                {
+                    "time": 659,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 737,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "79": {
+            "stops": [
+                {
+                    "time": 664,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 728,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "80": {
+            "stops": [
+                {
+                    "time": 686,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 757,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "81": {
+            "stops": [
+                {
+                    "time": 706,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 775,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "82": {
+            "stops": [
+                {
+                    "time": 721,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 801,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "83": {
+            "stops": [
+                {
+                    "time": 752,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 826,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "84": {
+            "stops": [
+                {
+                    "time": 764,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 844,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "85": {
+            "stops": [
+                {
+                    "time": 796,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 854,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "86": {
+            "stops": [
+                {
+                    "time": 814,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 877,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "87": {
+            "stops": [
+                {
+                    "time": 820,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 884,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "88": {
+            "stops": [
+                {
+                    "time": 841,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 909,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "89": {
+            "stops": [
+                {
+                    "time": 870,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 923,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "90": {
+            "stops": [
+                {
+                    "time": 887,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 939,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "91": {
+            "stops": [
+                {
+                    "time": 914,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 968,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "92": {
+            "stops": [
+                {
+                    "time": 927,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 986,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "93": {
+            "stops": [
+                {
+                    "time": 957,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1015,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "94": {
+            "stops": [
+                {
+                    "time": 974,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1031,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "95": {
+            "stops": [
+                {
+                    "time": 985,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1035,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "96": {
+            "stops": [
+                {
+                    "time": 1018,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1078,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "97": {
+            "stops": [
+                {
+                    "time": 1033,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1085,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "98": {
+            "stops": [
+                {
+                    "time": 1053,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1123,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "99": {
+            "stops": [
+                {
+                    "time": 1073,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1140,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        },
+        "100": {
+            "stops": [
+                {
+                    "time": 1082,
+                    "station": "Palermo",
+                    "type": "D"
+                },
+                {
+                    "time": 1153,
+                    "station": "Belgrano",
+                    "type": "A"
+                }
+            ],
+            "demand": [
+                500
+            ]
+        }
+    },
+    "stations": [
+        "Belgrano",
+        "Palermo"
+    ],
+    "cost_per_unit": {
+        "Belgrano": 1.0,
+        "Palermo": 1.0
+    },
+    "rs_info": {
+        "capacity": 100,
+        "max_rs": 25
+    }
+}
